@@ -41,7 +41,8 @@ I'm passionate about growing in my career, building meaningful projects, explori
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
 </p>
 
-# Skills
+<h3> Skills </h3>
+
 - 📊 Data Analysis
 - 📈 Data Visualization
 - 🧹 Data Cleaning & Preprocessing
@@ -49,23 +50,38 @@ I'm passionate about growing in my career, building meaningful projects, explori
 - 📚 Recommendation Systems
 
 
-# 💭 Favorite Quote
+<h3>💭 Favorite Quote</h3>
 
 > **"Great software isn't just written—it's crafted through curiosity, persistence, and continuous learning."**
 
 ---
 
-# 📈 Contribution Graph
+<h3> 📈 Contribution Graph</h3>
 
 [![Kritika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rouniyarkritika4-lang&theme=tokyo-night)](https://github.com/rouniyarkritika4-lang)
 ---
 
 <p align="center">
 
-### 🚀 Thanks for visiting my profile!
+---
+
+<h3>📊 GitHub Analytics</h3>
+
+<p align="center">
+
+  <img src="https://github-readme-stats.shion.dev/api?username=rouniyarkritika4-lang&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true" alt="Kritika's GitHub Stats" height="180"/>
+
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rouniyarkritika4-lang&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180"/>
+
+</p>
+
+---
+
+<h3>🚀 Thanks for visiting my profile! </h3>
 
 ⭐ If you like my work, consider giving a star to my repositories.
 
 Happy Coding! 💙
 
 </p>
+---
