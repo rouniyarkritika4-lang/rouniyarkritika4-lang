@@ -13,9 +13,19 @@ I'm passionate about growing in my career, building meaningful projects, explori
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,c,html,css" />
+</p>
+
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
+</p>
+
 
 
 # 💭 Favorite Quote
