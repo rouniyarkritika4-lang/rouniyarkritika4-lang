@@ -56,9 +56,16 @@ I'm passionate about growing in my career, building meaningful projects, explori
 
 ---
 
-<h3> 📈 Contribution Graph</h3>
+<h2 align="center">📊 My GitHub Contribution Graph</h2>
 
-[![Kritika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rouniyarkritika4-lang&theme=tokyo-night)](https://github.com/rouniyarkritika4-lang)
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rouniyarkritika4-lang&bg_color=0D1117&color=9F7AEA&line=7C3AED&point=FFFFFF&area=true&hide_border=true"
+    width="100%"
+    alt="Kritika's GitHub Contribution Graph"
+  />
+</p>
+
 ---
 
 <p align="center">
