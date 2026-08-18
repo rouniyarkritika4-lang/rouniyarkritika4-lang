@@ -56,7 +56,7 @@ I'm passionate about growing in my career, building meaningful projects, explori
 
 ---
 
-<h2 align="center">📊 My GitHub Contribution Graph</h2>
+<h3>📊 My GitHub Contribution Graph</h3>
 
 <p align="center">
   <img 
