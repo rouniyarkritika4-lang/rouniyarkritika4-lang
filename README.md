@@ -66,7 +66,6 @@ I'm passionate about growing in my career, building meaningful projects, explori
 
 ---
 
-<h3>Goals of 2026</h3>
 <p>
    <img src = "https://github.com/rouniyarkritika4-lang/rouniyarkritika4-lang/blob/main/goals-animated.svg" width="580">
 </p>
