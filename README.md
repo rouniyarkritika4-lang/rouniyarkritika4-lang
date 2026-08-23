@@ -1,4 +1,4 @@
-![logo](https://github.com/rouniyarkritika4-lang/rouniyarkritika4-lang/blob/main/Github%20Banner.jpg)
+![logo](https://github.com/rouniyarkritika4-lang/rouniyarkritika4-lang/blob/main/animated-github-banner%20(1).svg)
 
 # 🌸 Hi, I'm so glad you're here!
 
