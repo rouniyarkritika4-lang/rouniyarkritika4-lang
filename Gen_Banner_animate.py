@@ -14,7 +14,8 @@ WIDTH, HEIGHT = 1000, 354
 # Roles cycle in place of the static "BSc (Hons) Computing Student" label.
 ROLES = [
     "BSc (Hons) Computing Student",
-    "Full-Stack Developer",
+    "Full-Stack Developer in Process",
+    "Building AI & ML Projects",
     "Open Source Contributor",
     "Problem Solver // Builder",
 ]
