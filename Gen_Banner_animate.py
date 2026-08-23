@@ -2,7 +2,7 @@ import base64
 import os
 
 SRC_IMAGE = "/home/claude/banner_resized.jpg"
-OUT_SVG = "/home/claude/animated-github-banner.svg"
+OUT_SVG = "/home/claude/animated-github-banner(1).svg"
 
 CYAN = "#39c8ff"
 BLUE = "#3b6fff"
