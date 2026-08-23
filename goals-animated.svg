@@ -1,0 +1,105 @@
+<svg width="640" height="360" viewBox="0 0 640 360" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="50%" stop-color="#79c0ff"/>
+      <stop offset="100%" stop-color="#58a6ff">
+        <animate attributeName="offset" values="0;1;0" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <style>
+      .goal {
+        font-family: 'Segoe UI', Ubuntu, Verdana, sans-serif;
+        font-size: 17px;
+        fill: #c9d1d9;
+      }
+      .title {
+        font-family: 'Segoe UI', Ubuntu, Verdana, sans-serif;
+        font-size: 22px;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+
+  <!-- background card -->
+  <rect x="0" y="0" width="640" height="360" rx="14" fill="url(#bgGrad)" stroke="#30363d" stroke-width="1.5"/>
+
+  <!-- title -->
+  <text x="30" y="48" class="title" fill="url(#titleGrad)">
+    🎯 Goals of 2026
+    <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0s" fill="freeze"/>
+  </text>
+
+  <!-- animated underline -->
+  <rect x="30" y="60" height="3" rx="1.5" fill="#58a6ff">
+    <animate attributeName="width" values="0;480;480;0" keyTimes="0;0.15;0.9;1" dur="8s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- goal items -->
+  <g>
+    <!-- Goal 1 -->
+    <g transform="translate(30,100)">
+      <text class="goal">
+        <tspan>🤖 Build more Machine Learning projects</tspan>
+        <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.02;0.12;1" dur="8s" repeatCount="indefinite"/>
+      </text>
+      <animateTransform attributeName="transform" type="translate"
+        values="10,100;0,100;0,100" keyTimes="0;0.12;1" dur="8s" repeatCount="indefinite" additive="replace"/>
+    </g>
+
+    <!-- Goal 2 -->
+    <g transform="translate(30,140)">
+      <text class="goal">
+        <tspan>🌐 Deploy more real-world applications</tspan>
+        <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.14;0.24;1" dur="8s" repeatCount="indefinite"/>
+      </text>
+      <animateTransform attributeName="transform" type="translate"
+        values="10,140;0,140;0,140" keyTimes="0;0.24;1" dur="8s" repeatCount="indefinite" additive="replace"/>
+    </g>
+
+    <!-- Goal 3 -->
+    <g transform="translate(30,180)">
+      <text class="goal">
+        <tspan>📚 Improve software architecture skills</tspan>
+        <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.26;0.36;1" dur="8s" repeatCount="indefinite"/>
+      </text>
+      <animateTransform attributeName="transform" type="translate"
+        values="10,180;0,180;0,180" keyTimes="0;0.36;1" dur="8s" repeatCount="indefinite" additive="replace"/>
+    </g>
+
+    <!-- Goal 4 -->
+    <g transform="translate(30,220)">
+      <text class="goal">
+        <tspan>🧠 Learn more about AI</tspan>
+        <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.38;0.48;1" dur="8s" repeatCount="indefinite"/>
+      </text>
+      <animateTransform attributeName="transform" type="translate"
+        values="10,220;0,220;0,220" keyTimes="0;0.48;1" dur="8s" repeatCount="indefinite" additive="replace"/>
+    </g>
+
+    <!-- Goal 5 -->
+    <g transform="translate(30,260)">
+      <text class="goal">
+        <tspan>🤝 Contribute to open-source projects</tspan>
+        <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.5;0.6;1" dur="8s" repeatCount="indefinite"/>
+      </text>
+      <animateTransform attributeName="transform" type="translate"
+        values="10,260;0,260;0,260" keyTimes="0;0.6;1" dur="8s" repeatCount="indefinite" additive="replace"/>
+    </g>
+
+    <!-- Goal 6 -->
+    <g transform="translate(30,300)">
+      <text class="goal">
+        <tspan>💼 Build a strong developer portfolio</tspan>
+        <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.62;0.72;1" dur="8s" repeatCount="indefinite"/>
+      </text>
+      <animateTransform attributeName="transform" type="translate"
+        values="10,300;0,300;0,300" keyTimes="0;0.72;1" dur="8s" repeatCount="indefinite" additive="replace"/>
+    </g>
+  </g>
+</svg>
