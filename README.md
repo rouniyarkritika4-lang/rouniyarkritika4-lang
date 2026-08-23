@@ -80,11 +80,11 @@ I'm passionate about growing in my career, building meaningful projects, explori
 
 <h3>📊 GitHub Analytics</h3> 
 
+
 <p align="center"> 
   
-  <img src="github-stats-dashboard.svg" width="100%" alt="Animated Stats Dashboard" /> </p> <p align="center"> 
-  
   <img src="https://github-readme-stats.shion.dev/api?username=rouniyarkritika4-lang&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true" alt="Kritika's GitHub Stats" height="180"/> 
+  
   
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rouniyarkritika4-lang&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180"/> 
   
